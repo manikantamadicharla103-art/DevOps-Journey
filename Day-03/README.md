@@ -1,4 +1,4 @@
-# Day 2 - Linux File and Directory Management
+# Day 3 - Linux File and Directory Management
 
 ## Objective
 Learn basic Linux commands used to manage files and directories.
