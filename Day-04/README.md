@@ -1,4 +1,4 @@
-# Day 3 - Linux File Viewing and Text Editing
+# Day 4 - Linux File Viewing and Text Editing
 
 ## Objective
 Learn how to view, create, edit, and analyze text files using Linux commands.
